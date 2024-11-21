@@ -15,6 +15,7 @@
 		"@fontsource/fira-mono": "^5.0.0",
 		"@neoconfetti/svelte": "^2.0.0",
 		"@sveltejs/adapter-auto": "^3.0.0",
+		"@sveltejs/adapter-vercel": "^5.4.7",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
 		"autoprefixer": "^10.4.14",
@@ -42,6 +43,7 @@
 		"@harmoniclabs/cbor": "^1.5.0",
 		"@harmoniclabs/pair": "^1.0.0",
 		"@lucid-evolution/lucid": "0.4.2",
-		"svelte-french-toast": "^1.2.0"
+		"svelte-french-toast": "^1.2.0",
+		"vite-plugin-node-polyfills": "^0.22.0"
 	}
 }
