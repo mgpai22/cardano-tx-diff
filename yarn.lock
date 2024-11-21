@@ -2716,6 +2716,11 @@ stream-http@^3.2.0:
     readable-stream "^3.6.0"
     xtend "^4.0.2"
 
+string-width-cjs@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/string-width-cjs/-/string-width-cjs-5.1.1.tgz#9db7e00211027471870621778b089402cf9bdee3"
+  integrity sha512-N5/f0RNFtXPNDLtEvo8Y/+mH4xZWzIAnnqXPzCB4BBAQL8P3sHlz0dqDzTkGQoVsL56aCsORFFlyvA70k5yq3A==
+
 "string-width-cjs@npm:string-width@^4.2.0", "string-width@^1.0.2 || 2 || 3 || 4", string-width@^4.1.0, string-width@^4.2.3:
   name string-width-cjs
   version "4.2.3"
